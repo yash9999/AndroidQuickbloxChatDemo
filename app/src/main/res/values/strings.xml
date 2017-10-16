@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuickbloxChatDemo</string>
+
+    <string name="internet_connectivity_message">Please check your Internet connection.</string>
+
+    <!--Chat Activity -->
+    <string name="chat_not_availble">Currently this user is not available for chat. Please try again later.</string>
+
+</resources>
